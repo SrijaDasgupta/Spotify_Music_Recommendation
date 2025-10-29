@@ -1,18 +1,41 @@
-# 🎵 Spotify Music Recommendation System with Emotion Analysis
+Spotify Music Analysis & Recommendation
 
-This project is a Spotify music recommendation system enhanced with emotion analysis using both text and audio inputs. It leverages machine learning models and natural language processing to tailor recommendations based on user mood.
+A data analyst project exploring trends in Spotify music data — uncovering insights from genre distributions, audio features, and song popularity to help users understand what makes music popular.
 
----
+## 🔍 Project Features
 
-## 🚀 Features
+- **EDA**: Explored song characteristics like danceability, energy, valence, and tempo.
+- **Visual Insights**: Correlation analysis, popularity distribution, and temporal trends.
+- **Feature Analysis**: Identified traits of high-popularity songs.
+- **Dashboard**: Built an interactive dashboard for exploring trends across genres and years.
 
-- ✅ Content-based music recommendation
-- ✅ Data cleaning and preprocessing for Spotify track data
-- ✅ Emotion detection from user input text
-- ✅ Audio-based feature extraction for emotion classification
-- ✅ Scalable and modular notebook-based implementation
+## 📊 Tools Used
 
----
+- Python (pandas, seaborn, matplotlib)
+- Tableau / Power BI
+- Jupyter Notebook
+
+## 📈 Key Insights
+
+- Top genres include Pop, Hip-Hop, and EDM.
+- Most popular songs tend to have high danceability and energy.
+- Song energy and tempo have trended upward over time.
+
+## 📁 Files
+
+- `Spotify_Music_Recommendation_Updated.ipynb` — Main notebook
+- `spotify_analysis_data.csv` — Cleaned dataset
+- `Spotify_Dashboard.twbx` — Dashboard file (optional)
+- `Spotify_EDA.png` — Sample visual
+
+## 🔗 Live Dashboard
+
+> 📍 [View Tableau Dashboard](#) *(Upload and paste your link here)*
+
+## 🧠 Future Improvements
+
+- Integrate mood-based recommendations using NLP
+- Build an interactive web app for music exploration
 
 
 
