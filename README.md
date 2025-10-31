@@ -36,7 +36,4 @@ A data analyst project exploring trends in Spotify music data — uncovering ins
 
 
 
-## 🧑‍💻 Author
 
-Srija Dasgupta  
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
