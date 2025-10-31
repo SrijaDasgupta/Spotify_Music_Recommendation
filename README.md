@@ -24,13 +24,10 @@ A data analyst project exploring trends in Spotify music data — uncovering ins
 ## 📁 Files
 
 - `Spotify_Music_Recommendation_Updated.ipynb` — Main notebook
-- `spotify_analysis_data.csv` — Cleaned dataset
-- `Spotify_Dashboard.twbx` — Dashboard file (optional)
-- `Spotify_EDA.png` — Sample visual
+- `merged_tracks_data.csv` — Cleaned dataset
+- `Spotify_Dashboard.png` — Sample visual
 
-## 🔗 Live Dashboard
 
-> 📍 [View Tableau Dashboard](#) *(Upload and paste your link here)*
 
 ## 🧠 Future Improvements
 
